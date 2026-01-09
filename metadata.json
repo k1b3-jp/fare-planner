@@ -1,0 +1,5 @@
+{
+  "name": "ANA Fare Planner - Calendar View",
+  "description": "ANAの航空券を出発日と購入タイミング（75日前、55日前など）に基づいて、いつ買うのが一番お得かをカレンダー形式で視覚化・予測するプランニングアプリです。AIによる価格分析アドバイス機能も搭載しています。",
+  "requestFramePermissions": []
+}
